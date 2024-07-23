@@ -92,6 +92,5 @@ export default class AlertPageComponent {
 	readonly defaultCode = defaultCode;
 	readonly defaultSkeleton = defaultSkeleton;
 	readonly defaultImports = defaultImports;
-
 	readonly destructiveCode = destructiveCode;
 }
